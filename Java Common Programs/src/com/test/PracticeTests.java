@@ -6,8 +6,8 @@ import java.util.List;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.practice.interfaces.NumbersHelper;
-import com.practice.interfaces.StringHelper;
+import com.practice.helper.NumbersHelper;
+import com.practice.helper.StringHelper;
 
 class PracticeTests {
 
